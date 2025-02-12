@@ -1,0 +1,9 @@
+#scikit-learn==1.0.2
+datetime
+PyPDF2
+pdfminer.six
+pdfplumber
+pdf2image
+Pillow
+pytest
+nltk
